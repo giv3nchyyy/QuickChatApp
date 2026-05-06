@@ -24,4 +24,4 @@ jobs:
         run: javac Message.java Main.java UnitTests.java
 
       - name: Run unit tests
-        run: java UnitTests
+        run: java UnitTests 
